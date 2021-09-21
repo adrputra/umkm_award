@@ -1179,6 +1179,15 @@ accordions
   padding-top: 0;
 }
 
+.doorprize{
+  font-size: 100pt;
+}
+
+@media (max-width: 768px){
+  .doorprize{
+    font-size: 36pt;
+  }
+}
 /* 
 ---------------------------------------------
 contact
