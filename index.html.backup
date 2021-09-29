@@ -14,7 +14,7 @@
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/templatemo-art-factory.css">
     <link rel="stylesheet" type="text/css" href="assets/css/owl-carousel.css">
 
     </head>
@@ -76,18 +76,19 @@
 
         <!-- ***** Header Text Start ***** -->
         <div class="header-text">
-            <div class="container" style="margin-top: 20%;">
+            <div class="container" style="margin-top: 200px;">
                 <div class="row">
                     <div class="left-text col-lg-5 col-md-6 col-sm-12 col-xs-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                         <h1><strong>Jamkrindo<br>UMKM Appreciation<br>Award 2021</strong></h1>
+                        <!-- <a href="#about" class="main-button-slider">Find Out More</a> -->
                     </div>
                     <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                         <img src="assets/images/logo-black.png" style="width: 700vx; height: auto;" class="rounded img-fluid d-block mx-auto" alt="First Vector Graphic">
-                        <h3 class="text-center" style="color: white;"><strong><i>UMKM Bangkit Dengan Semangat Kolaborasi</i></strong></h3>
+                        <h3 class="text-center" style="color: white;"><strong>UMKM Bangkit Dengan Semangat Kolaborasi</strong></h3>
                     </div>
                 </div>
                 <br>
-                <p>Rangkaian kegiatan pembimbingan UMKM sektor unggulan yang bertujuan untuk memberikan manfaat kepada UMKM sekaligus sebagai bentuk apresiasi yang diberikan PT. Jamkrindo kepada pelaku UMKM untuk terus dapat bersinergi dan tumbuh bersama dalam mendukung perekonomian nasional Indonesia.</p>
+                <p>Rangkaian kegiatan pembimbingan UMKM sektor unggulan yang bertujuan untuk memberikan manfaat kepada UMKM sekaligus dapat digunakan sebagai catatan kegiatan pembinaan UMKM perusahaan (Success Story) dan untuk meningkatkan citra perusahaan.</p>
             </div>
         </div>
         <!-- ***** Header Text End ***** -->
@@ -95,24 +96,25 @@
     <!-- ***** Welcome Area End ***** -->
     
     <!-- ***** Features Big Item Start ***** -->
-    <section class="section about" id="mediasosial">
+    <section class="section" id="mediasosial">
         <br>
         <br>
         <div class="container">
             <div class="row">
                 <div class="right-text col-lg-7 col-md-12 col-sm-12 mobile-top-fix">
-                    <!-- <br>
                     <br>
                     <br>
                     <br>
-                    <br> -->
+                    <br>
+                    <br>
                     <div class="left-heading">
                         <h1>Optimalisasi Penggunaan Media Sosial untuk Bisnis</h1>
                         <br>
                     </div>
                     <div class="left-text">
-                        <p>Kegiatan ini akan dilaksanakan pada tanggal 26 September 2021</p>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScKRuarqrbEi_qX_zv0iKvW3Rp26xuR_NzTj9WrVIYfBihr0Q/viewform" target="_blank" class="main-button">Daftar Sekarang</a>
+                        <p>Kegiatan ini akan dilaksanakan pada tanggal 19 September 2021</p>
+                        <br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScKRuarqrbEi_qX_zv0iKvW3Rp26xuR_NzTj9WrVIYfBihr0Q/viewform" target="_blank" class="main-button" download>Daftar Sekarang</a>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
@@ -127,45 +129,69 @@
         </div>
     </section>
     <!-- ***** Features Big Item End ***** -->
+    <br>
+    <br>
 
-    <section class="section about" id="idebisnis">
+    <section class="section" id="idebisnis">
+        <br>
+        <br>
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-12 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                     <img src="assets/images/ide-bisnis.png" style="width: 500px; height: auto; align-self: flex-end;" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
-                <div class="right-text col-lg-7 col-md-12 col-sm-12 mobile-top-fix" style="margin-top: 50px;">
+                <div class="right-text col-lg-7 col-md-12 col-sm-12 mobile-top-fix">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                     <div class="left-heading">
                         <h1>Kompetisi Berbagi Ide Bisnis</h1>
                         <br>
                     </div>
                     <div class="left-text">
-                        <p>Kegiatan ini akan dilaksanakan pada tanggal 27 September - 22 Oktober 2021
+                        <p>Kegiatan ini akan dilaksanakan pada tanggal 1 Oktober 2021
                             <br>
-                            Adapun tujuan dari program ini adalah memberikan beberapa alternatif ide bisnis bagi <i>entrepreneur</i> baru serta mendukung kelangsungan usaha dari UMKM yang terdampak covid-19 agar dapat meningkatkan kapasitas usaha dan terus eksis dalam menggerakan perekonomian di Indonesia.
+                            Adapun tujuan dari program ini nantinya bisa dijadikan materi pembuatan bisnis bagi <i>entrepreneur</i> baru serta mendukung kelangsungan usaha dari UMKM yang terdampak covid-19 agar lebih banyak bisa merekrut banyak tenaga kerja dan menggerakan perekonomian di Indonesia.
                         </p>
                         <br>
                         <a href="#persyaratanidebisnis" class="main-button">Lihat Persyaratan</a>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScojvDGcvSR-5GGwtkx20scmXNt73NoFwbj-svtKZt7VAtMLg/viewform" target="_blank" class="main-button">Kirim Proposal Ide Bisnis</a>
-                        <a href="http://umkmaward2021.rf.gd/Template_Proposal_Ide_Bisnis.docx" class="main-button" download>Download</a>
+                        <a href="#proposalidebisnis" class="main-button">Baca Selengkapnya</a>
+                        <a href="https://github.com/adrputra/umkm_award/raw/main/ide-bisnis-proposal.pptx" class="main-button" download>Download</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <!-- ***** Features Big Item End ***** -->
 
-    <section class="section about" id="nib">
+    <section class="section" id="nib">
+        <br>
+        <br>
         <div class="container">
             <div class="row">
                 <div class="right-text col-lg-7 col-md-12 col-sm-12 mobile-top-fix">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                     <div class="left-heading">
                         <h1>Pelatihan Pembuatan NIB</h1>
                         <br>
                     </div>
                     <div class="left-text">
                         <p>Kegiatan ini akan dilaksanakan pada tanggal 18 Oktober 2021</p>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdovggCBexxrfiHkRrtnxbODx7dX0chnhz7JOJSCbaIXvsuRQ/viewform" target="_blank" class="main-button" style="background-color:darkslateblue;">Daftar Sekarang</a>
+                        <br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdovggCBexxrfiHkRrtnxbODx7dX0chnhz7JOJSCbaIXvsuRQ/viewform" target="_blank" class="main-button">Daftar Sekarang</a>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
@@ -180,17 +206,28 @@
         </div>
     </section>
     <!-- ***** Features Big Item End ***** -->
+    <br>
+    <br>
+    <br>
 
-    <section class="section about" id="talkshow">
+    <section class="section" id="talkshow">
+        <br>
+        <br>
         <div class="container">
             <div class="row">
                 <div class="right-text col-lg-7 col-md-12 col-sm-12 mobile-top-fix">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
                     <div class="left-heading">
                         <h1>Talkshow UMKM & Penganugerahan Jamkrindo UMKM Appreciation Award 2021</h1>
                         <br>
                     </div>
                     <div class="left-text">
-                        <p>Kegiatan ini akan dilaksanakan pada tanggal 28 Oktober 2021</p>
+                        <p>Kegiatan ini akan dilaksanakan pada tanggal 8 November 2021</p>
+                        <br>
                         <a href="#timeline" class="main-button">Lihat Timeline</a>
                     </div>
                 </div>
@@ -228,7 +265,7 @@
                         <li>
                             <img src="assets/images/about-icon-01.png" alt="">
                             <div class="text">
-                                <h6>Cabang Jamkrindo Melakukan <i>On The Spot Visit</i> UMKM Terjamin / Program Kemitraan (PK)</h6>
+                                <h6>Cabang Melakukan <i>On The Spot Visit</i> UMKM Terjamin / PK</h6>
                                 <p style="line-height: 0%;">9 - 30 September 2021</p>
                             </div>
                         </li>
@@ -242,21 +279,21 @@
                         <li>
                             <img src="assets/images/about-icon-01.png" alt="">
                             <div class="text">
-                                <h6>Seleksi Tahap 1 (Kantor Wilayah Jamkrindo)</h6>
+                                <h6>Seleksi Tahap 1 (Kantor Wilayah)</h6>
                                 <p style="line-height: 0%;">4 - 6 Oktober 2021</p>
                             </div>
                         </li>
                         <li>
                             <img src="assets/images/about-icon-01.png" alt="">
                             <div class="text">
-                                <h6>Pengumpulan Video Pitching UMKM</h6>
+                                <h6>Pengumpulan Video Pitching</h6>
                                 <p style="line-height: 0%;">6 - 12 Oktober 2021</p>
                             </div>
                         </li>
                         <li>
                             <img src="assets/images/about-icon-01.png" alt="">
                             <div class="text">
-                                <h6>Seleksi Tahap 2 (Kantor Pusat Jamkrindo)</h6>
+                                <h6>Seleksi Tahap 2 (Kantor Pusat)</h6>
                                 <p style="line-height: 0%;">13 - 15 Oktober 2021</p>
                             </div>
                         </li>
@@ -273,20 +310,19 @@
     </section>
     <!-- ***** Features Big Item End ***** -->
 
-    <!-- ***** Features Big Item Start ***** -->
-    <section class="section about" id="timelineidebisnis">
-        <div class="container">
-            <img src="assets/images/TL-ide-bisnis.png" style="width:100%; height:auto;">
-        </div>
-    </section>
-    <!-- ***** Features Big Item End ***** -->
-
 
     <!-- ***** Features Small Start ***** -->
     <section class="section" id="services">
         <div class="container">
             <div class="row">
                 <div class="owl-carousel owl-theme">
+                    <div class="item service-item">
+                        <div class="icon">
+                            <i><img src="assets/images/service-icon-01.png" alt=""></i>
+                        </div>
+                        <h5 class="service-title">Tentang Kompetisi Berbagi Ide Bisnis</h5>
+                        <a href="#proposalidebisnis" class="main-button">Baca Selengkapnya</a>
+                    </div>
                     <div class="item service-item">
                         <div class="icon">
                             <i><img src="assets/images/service-icon-02.png" alt=""></i>
@@ -296,16 +332,9 @@
                     </div>
                     <div class="item service-item">
                         <div class="icon">
-                            <i><img src="assets/images/service-icon-01.png" alt=""></i>
-                        </div>
-                        <h5 class="service-title">Timeline Kompetisi Berbagi Ide Bisnis</h5>
-                        <a href="#timelineidebisnis" class="main-button">Baca Selengkapnya</a>
-                    </div>
-                    <div class="item service-item">
-                        <div class="icon">
                             <i><img src="assets/images/service-icon-03.png" alt=""></i>
                         </div>
-                        <h5 class="service-title">Persyaratan Kompetisi Berbagi Ide Bisnis</h5>
+                        <h5 class="service-title">Persyaratan Kompetisi Ide Bisnis</h5>
                         <br>
                         <a href="#persyaratanidebisnis" class="main-button">Baca Selengkapnya</a>
                     </div>
@@ -329,6 +358,7 @@
     </section>
     <!-- ***** Features Small End ***** -->
 
+
     <!-- ***** Frequently Question Start ***** -->
     <section class="section frequently-question" id="persyaratanaward">
         <div class="container">
@@ -341,7 +371,7 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="section-heading">
-                        <p>Kriteria Peserta UMKM yang diikutsertakan pada Jamkrindo UMKM Appreciaton Awards 2021 adalah sebagai berikut</p>
+                        <p>Kriteria Peserta UMKM yang diikutsertakan pada Jamkrindo UMKM Appreciaton Awards adalah sebagai berikut</p>
                     </div>
                 </div>
             </div>
@@ -357,11 +387,15 @@
                         <p style="margin: 0%">4. UMKM diutamakan yang merupakan produsen barang, khususnya yang termasuk di dalam 16 sub sektor industri kreatif, yaitu Desain Produk, Fashion, Kuliner, Kerajinan (Kriya),  Aplikasi Pengembangan Permainan, Arsitektur, Desain Interior, Desain Komunikasi Visual (DKV), Film Animasi & Video, Fotografi, Musik, Penerbitan, Periklanan (Advertising), Seni Pertunjukan, Seni Rupa, dan Televisi & Radio.</p>
                         <p style="margin: 0%">5. Usaha UMKM dapat memiliki multiplier effect dan kemanfaatan sosial bagi masyarakat sekitar (etc : Pariwisata).</p>
                         <p style="margin: 0%">6. Memiliki usaha tetap minimal 2 tahun.</p>
+                        <!-- <p>Curabitur placerat diam in risus lobortis, laoreet porttitor est elementum. Nulla ultricies risus quis risus scelerisque, a aliquam tellus maximus. Cras pretium nulla ac convallis iaculis. Aenean bibendum erat vitae odio sodales, in facilisis tellus volutpat.</p>
+                        <p>Sed lobortis pellentesque magna ac congue. Suspendisse quis molestie magna, id eleifend ex. Ut mollis ultricies diam nec dictum. Morbi commodo hendrerit mi vel vulputate. Proin non tincidunt dui. Lorem ipsum dolor sit amet.</p> -->
+                        <!-- <span>Email: <a href="#">email@company.com</a><br></span> -->
+                        <!-- <a href="#contact-us" class="main-button">Contact Us</a> -->
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="accordions">
-                        <!-- <article class="accordion">
+                        <article class="accordion">
                             <div class="accordion-head">
                                 <span>Dasar Pelaksanaan</span>
                                 <span class="icon">
@@ -378,10 +412,10 @@
                                 </p>
                                 </div>
                             </div>
-                        </article> -->
+                        </article>
                         <article class="accordion">
                             <div class="accordion-head">
-                                <span>Mekanisme Pelaksanaan (Kantor Cabang Jamkrindo)</span>
+                                <span>Mekanisme Pelaksanaan (Kantor Cabang)</span>
                                 <span class="icon">
                                     <i class="icon fa fa-chevron-right"></i>
                                 </span>
@@ -401,16 +435,16 @@
                         </article>
                         <article class="accordion">
                             <div class="accordion-head">
-                                <span>Mekanisme Pelaksanaan (Kantor Wilayah Jamkrindo)</span>
+                                <span>Mekanisme Pelaksanaan (Kantor Wilayah)</span>
                                 <span class="icon">
                                     <i class="icon fa fa-chevron-right"></i>
                                 </span>
                             </div>
                             <div class="accordion-body">
                                 <div class="content">
-                                    <p>1. Memonitoring kegiatan pencarian UMKM di Cabang Binaan.
+                                    <p>1. Memonitoring kegiatan pencarian UMKM di Cabang.
                                         <br>
-                                        2. Melakukan Penilaian / Seleksi UMKM Tahap 1.
+                                        2. Melakukan Penilaian / Seleksi UMKM.
                                         <br>
                                         3. Mengirimkan Video Pitching bagi UMKM yang lolos seleksi Kanwil ke Kantor Pusat.
                                         <br>
@@ -423,7 +457,7 @@
                         </article>
                         <article class="accordion">
                             <div class="accordion-head">
-                                <span>Mekanisme Pelaksanaan (Kantor Pusat Jamkrindo)</span>
+                                <span>Mekanisme Pelaksanaan (Kantor Pusat)</span>
                                 <span class="icon">
                                     <i class="icon fa fa-chevron-right"></i>
                                 </span>
@@ -432,7 +466,7 @@
                                 <div class="content">
                                     <p>1. Menginisiasi Kegiatan Jamkrindo UMKM Apreciation Award (JUAA) 2021.
                                         <br>
-                                        2. Melakukan Penilaian / Seleksi UMKM Tahap 2.
+                                        2. Melakukan Penilaian / Seleksi UMKM tahap II.
                                         <br>
                                         3. Melaksanakan seluruh rangkaian kegiatan JUAA 2021.
                                         <br>
@@ -440,9 +474,9 @@
                                         <br>
                                         &nbsp;&nbsp;&nbsp;b. Membuat Pelatihan Optimalisasi Penggunaan Media Sosial Untuk Bisnis.
                                         <br>
-                                        &nbsp;&nbsp;&nbsp;c. Melaksanakan Kegiatan Berbagi Ide Bisnis untuk para Pendamping UMKM.
+                                        &nbsp;&nbsp;&nbsp;c. Melaksanakan Kegiatan Berbagai Ide Bisnis untuk para Pendamping UMKM.
                                         <br>
-                                        &nbsp;&nbsp;&nbsp;d. Melaksanakan Talkshow UMKM & Seremonial Penganugerahan Jamkrindo UMKM Appreciation Award 2021.
+                                        &nbsp;&nbsp;&nbsp;d. Melaksanakan Talkshow & Seremonial Penganugerahan Jamkrindo UMKM Appreciation Awards 2021.
                                     </p>
                                 </div>
                             </div>
@@ -455,62 +489,24 @@
     <!-- ***** Frequently Question End ***** -->
 
     <!-- ***** Frequently Question Start ***** -->
-    <section class="section frequently-question" id="persyaratanidebisnis">
+    <section class="section frequently-question" id="proposalidebisnis">
         <div class="container">
             <!-- ***** Section Title Start ***** -->
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-heading">
-                        <h2>Persyaratan Kompetisi Berbagi Ide Bisnis</h2>
+                        <h2>Kompetisi Berbagi Ide Bisnis</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="section-heading">
-                        <p>Peserta yang bisa mengikuti adalah <br><strong>Pendamping UMKM</strong> & <strong>PIC Pemeringkatan Jamkrindo</strong></p>
+                        <p>Berikut adalah informasi seputar Kompetisi Berbagi Ide Bisnis</p>
                     </div>
                 </div>
             </div>
             <!-- ***** Section Title End ***** -->
 
-            <div class="row">
-                <div class="left-text col-lg-6 col-md-6 col-sm-12">
-                    <h5>Persyaratan Umum</h5>
-                    <div>
-                        <p>1. Warga Negara Indonesia.<br>
-                            2. Pria atau Wanita berusia maks. 60 tahun.<br>
-                            3. Memiliki Pengalaman sebagai Pendamping UMKM minimal 2 tahun.<br>
-                            4. Memiliki motivasi yang kuat untuk pertumbuhan UMKM di Indonesia.<br>
-                            5. Memiliki semangat dalam meningkatkan kapasitas dan kompetensi diri dalam pendampingan UMKM.<br>
-                            6. Peserta hanya diperkenankan mengirim satu proposal ide bisnis.<br>
-                            7. Peserta wajib follow akun Instagram @umkmlayak dan tag 10 Instagram UMKM pada kolom komentar flyer ide bisnis.
-                        </p>
-
-                        <!-- <span>Email: <a href="#">email@company.com</a><br></span> -->
-                        <!-- <a href="#contact-us" class="main-button">Contact Us</a> -->
-                    </div>
-                    <h5>Persyaratan Materi</h5>
-                    <div>
-                        <p>1. Ide bisnis harus original dan belum pernah diikutsertakan dalam lomba sejenis.<br>
-                            2. Ide bisnis harus relevan dengan kondisi saat ini.<br>
-                            3. Panitia tidak bertanggung jawab apabila ada klaim dari pihak lain atas ketidakorisinilan karya peserta (plagiarisme).<br>
-                            4. Peserta setuju untuk memberikan hak kepada panitia kompetisi untuk menggunakan karya tersebut untuk kepentingan Jamkrindo.<br>
-                            5. Seluruh karya yang ikutsertakan dalam kompetisi ini menjadi hak milik panitia, sehingga panitia berhak mempublikasikan ide bisnis dengan tetap mencantumkan nama penulisnya.<br>
-                            6. Penilaian juri bersifat mutlak dan tidak dapat diganggu gugat.<br>
-                            7. Modal usaha maksimal sebesar 30 juta rupiah belum termasuk biaya sewa lokasi usaha.<br>
-                            8. Sektor usaha meliputi :<br>
-                            &nbsp;&nbsp;a. Pertanian, peternakan, kehutanan dan perikanan<br>
-                            &nbsp;&nbsp;b. Pertambangan dan penggalian<br>
-                            &nbsp;&nbsp;c. Industri pengolahan<br>
-                            &nbsp;&nbsp;d. Listrik, gas dan air bersih<br>
-                            &nbsp;&nbsp;e. Bangunan<br>
-                            &nbsp;&nbsp;f. Perdagangan, restoran dan hotel<br>
-                            &nbsp;&nbsp;g. Pengangkutan dan komunikasi<br>
-                            &nbsp;&nbsp;h. Keuangan, persewaan dan jasa perusahaan<br>
-                            &nbsp;&nbsp;i. Jasa-jasa<br><br>
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="accordions">
                         <article class="accordion">
                             <div class="accordion-head">
@@ -521,7 +517,9 @@
                             </div>
                             <div class="accordion-body">
                                 <div class="content">
-                                    <p>Pandemi Covid-19 berpengaruh tidak hanya pada pola kehidupan bermasyarakat, tetapi juga pada keberlangsungan usaha di berbagai sektor UMKM. Kebijakan pemerintah dalam memutus mata rantai virus Covid-19 seperti pembatasan sosial (<i> Social Distancing</i>) juga memiliki dampak pada penurunan omset usaha pelaku UMKM bahkan sampai kegiatan operasional usaha terhenti. Sehingga banyak pelaku UMKM perlu memikirkan strategi mempertahankan eksistensi usahanya dan mampu bangkit di masa pandemi seperti sekarang ini. Sehubungan dengan hal tersebut banyak program - program yang diberikan oleh pemerintah kepada pelaku UMKM yang terdampak Covid-19. Jamkrindo selain mendukung kebijakan pemerintah tersebut juga menginisiasi beberapa rangkaian program pendampingan dan pembinaan UMKM seperti mengadakan Kompetisi Berbagi Ide Bisnis kepada seluruh pendamping UMKM di Indonesia untuk dapat memberikan alternatif ide bisnis kepada UMKM terdampak Covid-19.
+                                    <p>Banyak ide-ide bisnis semakin dicari apalagi disaat pandemi covid 19. Dampak dari kebijakan pemerintah kebijakan yang membatasi mobilitas masyarakat membuat banyak pekerja yang dirumahkan dan banyak usaha yang berhenti beroperasional. Sehingga mau tidak mau banyak UMKM yang melakukan pivoting. 
+                                        Beberapa bisnis banyak juga yang semakin berembang dan menarik minat para calon pebisnis lainnya, peluang menjalankan bisnis rumahan semakin terbuka. Namun, seperti bisnis pada umumnya, membangun usaha rumahan juga memerlukan strategi dan perencanaan yang matang dan akurat. Riset pasar diperlukan untuk dapat menjangkau dan mempertahankan pelanggan. Eskalasi bisnis rumahan juga bisa dilakukan dengan memanfaatkan teknologi, seperti media sosial sebagai media promosi
+                                        Berbagi ide Bisnis merupakan salah satu program dalam rangkaian Jamkrindo UMKM Award 2021 yang di khususkan bagi PIC Pemeringkatan Jamkrindo ataupun Pendamping UMKM di seluruh Indonesia.
                                     </p>
                                 </div>
                             </div>
@@ -549,7 +547,7 @@
                             </div>
                             <div class="accordion-body">
                                 <div class="content">
-                                    <p>Adapun tujuan dari program ini adalah memberikan beberapa alternatif ide bisnis bagi entrepreneur baru serta mendukung kelangsungan usaha dari UMKM yang terdampak covid-19 agar dapat meningkatkan kapasitas usaha dan terus eksis dalam menggerakan perekonomian di Indonesia.
+                                    <p>Adapun tujuan dari program ini nantinya bisa dijadikan materi pembuatan bisnis bagi entrepreneur baru serta mendukung kelangsungan usaha dari UMKM yang terdampak covid 19 agar lebih banyak bisa merekrut banyak tenaga kerja dan menggerakan perekonomian di Indonesia.
                                     </p>
                                 </div>
                             </div>
@@ -564,6 +562,21 @@
                             <div class="accordion-body">
                                 <div class="content">
                                     <p>Penyelenggaran program Berbagi Ide Bisnis akan dilaksanakan dengan berkoordinasi dengan mitra pendamping UMKM serta kantor cabang Jamkrindo
+                                        <br><br>
+                                        Adapun proposal Ide bisnis dibuat dengan beberapa aturan sebagai berikut : <br><br>
+                                        1. Modal usaha maksimal sebesar 30 juta rupiah belum termasuk biaya sewa lokasi usaha<br>
+                                        2. Sektor usaha meliputi :<br>
+                                        &nbsp;&nbsp;a. Pertanian, peternakan, kehutanan dan perikanan<br>
+                                        &nbsp;&nbsp;b. Pertambangan dan penggalian <br>
+                                        &nbsp;&nbsp;c. Industri pengolahan<br>
+                                        &nbsp;&nbsp;d. Listrik, gas dan air bersih<br>
+                                        &nbsp;&nbsp;e. Bangunan<br>
+                                        &nbsp;&nbsp;f. Perdagangan, restoran dan hotel <br>
+                                        &nbsp;&nbsp;g. Pengangkutan dan komunikasi  <br>
+                                        &nbsp;&nbsp;h. Keuangan, persewaan dan jasa perusahaan  <br>
+                                        &nbsp;&nbsp;i. Jasa-jasa<br><br>
+                                        
+                                        Proposal Bisnis yang di buat harus relevan dengan kondisi saat ini
                                     </p>
                                 </div>
                             </div>
@@ -588,20 +601,69 @@
                                         &nbsp;&nbsp;d. Proyeksi Pendapatan<br>
                                         &nbsp;&nbsp;e. Rencana Struktur organisasi <br>
                                         &nbsp;&nbsp;f. Analisis SWOT<br>
-                                        &nbsp;&nbsp;g. Business Model Canvas (BMC)<br>
                                         5. Penutup<br>
-                                        6. Lampiran dokumen pendukung<br>
-                                        7. Profil dan Portofolio Pendampingan
+                                        6. Lampiran dokumen pendukung                                         
                                     </p>
-                                    <br><br>
-                                    <a href="http://umkmaward2021.rf.gd/Template_Proposal_Ide_Bisnis.docx" download>Download Template Proposal</a>
                                 </div>
                             </div>
                         </article>
                     </div>
-                    <br>
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScojvDGcvSR-5GGwtkx20scmXNt73NoFwbj-svtKZt7VAtMLg/viewform" target="_blank" class="main-button">Kirim Proposal Ide Bisnis</a>
-                    <a href="https://api.whatsapp.com/send/?phone=62895331186470" class="main-button">Contact Person</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Frequently Question End ***** -->
+
+    <!-- ***** Frequently Question Start ***** -->
+    <section class="section frequently-question" id="persyaratanidebisnis">
+        <div class="container">
+            <!-- ***** Section Title Start ***** -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-heading">
+                        <h2>Persyaratan Kompetisi Berbagai Ide Bisnis</h2>
+                    </div>
+                </div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="section-heading">
+                        <p>Peserta yang bisa mengikuti adalah <br><strong>Pendamping UMKM</strong> & <strong>PIC Pemeringkatan Jamkrindo</strong></p>
+                    </div>
+                </div>
+            </div>
+            <!-- ***** Section Title End ***** -->
+
+            <div class="row">
+                <div class="left-text col-lg-6 col-md-6 col-sm-12">
+                    <h5>Persyaratan Umum</h5>
+                    <div>
+                        <p>1. Warga Negara Indonesia.<br>
+                            2. Pria atau Wanita berusia maks. 60 tahun.<br>
+                            3. Memiliki Pengalaman sebagai Pendamping UMKM minimal 2 tahun.<br>
+                            4. Memiliki motivasi yang kuat untuk pertumbuhan UMKM di Indonesia.<br>
+                            5. Memiliki semangat dalam meningkatkan kapasitas dan kompetensi diri dalam pendampingan UMKM.<br>
+                            6. Peserta hanya diperkenankan mengirim satu proposal ide bisnis.<br>
+                            7. Peserta wajib follow akun Instagram @umkmlayak dan tag 10 UMKM teman pada kolom komentar flyer ide bisnis.
+                        </p>
+
+                        <!-- <span>Email: <a href="#">email@company.com</a><br></span> -->
+                        <!-- <a href="#contact-us" class="main-button">Contact Us</a> -->
+                    </div>
+                </div>
+                <div class="left-text col-lg-6 col-md-6 col-sm-12">
+                    <h5>Persyaratan Materi</h5>
+                    <div>
+                        <p>1. Ide bisnis harus original dan belum pernah diikutsertakan lomba sejenis.<br>
+                            2. Ide bisnis harus sesuai dengan tema serta ruang lingkup kegiatan.<br>
+                            3. Panitia tidak bertanggung jawab apabila ada klaim dari pihak lain atas ketidakorisinilan karya peserta (plagiat).<br>
+                            4. Peserta setuju untuk memberikan hak kepada panitia kompetisi untuk menggunakan karya tersebut untuk kepentingan Jamkrindo.<br>
+                            5. Penilaian juri bersifat mutlak dan tidak dapat diganggu gugat.<br>
+                            6. Seluruh karya yang ikutsertakan dalam kompetisi ini menjadi hak milik panitia, sehingga panitia berhak mempublikasikan ide bisnis dengan tetap mencantumkan nama penulisnya.
+                        </p>
+                        <!-- <p>Curabitur placerat diam in risus lobortis, laoreet porttitor est elementum. Nulla ultricies risus quis risus scelerisque, a aliquam tellus maximus. Cras pretium nulla ac convallis iaculis. Aenean bibendum erat vitae odio sodales, in facilisis tellus volutpat.</p>
+                        <p>Sed lobortis pellentesque magna ac congue. Suspendisse quis molestie magna, id eleifend ex. Ut mollis ultricies diam nec dictum. Morbi commodo hendrerit mi vel vulputate. Proin non tincidunt dui. Lorem ipsum dolor sit amet.</p> -->
+                        <!-- <span>Email: <a href="#">email@company.com</a><br></span> -->
+                        <!-- <a href="#contact-us" class="main-button">Contact Us</a> -->
+                    </div>
                 </div>
             </div>
         </div>
@@ -660,12 +722,6 @@
         </div>
     </section>
 
-    <section class="section about2" id="Doorprize">
-        <div class="container" style="background-color: bisque;">
-            <h1 style="text-align: center; margin-bottom: 5%;">Dapatkan Doorprize senilai :</h1>
-            <h1 style="text-align: center; margin-bottom: 5%;" class="doorprize">Rp 15.000.000,-</h1>
-        </div>
-    </section>
 
 
     <!-- ***** Contact Us Start ***** -->
@@ -690,24 +746,20 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-12 col-sm-12">
-                    <p style="text-align: left; text-decoration: black; margin-bottom: 5px;"><strong>Sosial Media UMKM Layak</strong></p>
+                    <p style="text-align: left; text-decoration: black; margin-left: 5px;"><strong>Sosial Media UMKM Layak</strong></p>
+                    <br>
                     <ul class="social">
                         <li><a href="https://www.instagram.com/umkmlayak/"><i class="fa fa-instagram"></i></a></li>
                         <li><a href="https://umkmlayak.co.id/"><i class="fa fa-dribbble"></i></a></li>
                         <li><a href="https://api.whatsapp.com/send/?phone=62895331186470&text&app_absent=0"><i class="fa fa-whatsapp"></i></a></li>
                     </ul>
                 </div>
-                <div class="col-lg-7 col-md-12 col-sm-12 copyright">
-                    <p style="text-decoration: black;"><strong>Didukung Oleh</strong></p>
+                <div class="col-lg-7 col-md-12 col-sm-12">
+                    <p style="text-align: center; text-decoration: black;"><strong>Didukung Oleh</strong></p>
                     <br>
-                    <a href="">
-                        <img src="assets/images/bumn.png" alt="logo" style="width:200px; height:auto; margin-left: 10px;">
-                    </a>
-                    <a href="https://umkmlayak.co.id/" target="_blank">
-                        <img src="assets/images/umkm-layak.png" alt="logo" style="width:200px; height:auto;">
-                    </a>
                     <a href="https://www.jamkrindo.co.id/" target="_blank">
-                        <img src="assets/images/jamkrindo-new.png" alt="logo" style="width:200px; height:auto;">
+                        <img src="assets/images/jamkrindo-new.png" alt="logo" style="width:200px; height:auto; margin-top: 5px; float: right;">
+                        <img src="assets/images/umkm-layak.png" alt="logo" style="width:200px; height:auto; margin-top: 5px; float: right;">
                     </a>
                 </div>
             </div>

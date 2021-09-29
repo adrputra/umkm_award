@@ -715,7 +715,7 @@ welcome
   justify-content: center;
   background-image: url(../images/banner-bg.png);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center center;
 /*
 TRY IT ... with or without CENTER CENTER
   background-position: center center; 
@@ -793,12 +793,15 @@ TRY IT ... with or without CENTER CENTER
 }
 
 @media (max-width: 765px) {
+  #welcome{
+    height: 130vh;
+  }
   .welcome-area {
     margin-bottom: 50px;
   }
   .welcome-area .header-text {
     top: 45% !important;
-    transform: perspective(1px) translateY(-50%) !important;
+    transform: perspective(1px) translateY(-35%) !important;
     text-align: center;
   }
   .welcome-area .header-text .buttons {
